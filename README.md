@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor="> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=black">
 ---
-- Freshman @ Purdue (major: Computer Science and Data Science)
+- Undergraduate Student @ Purdue (major: Computer Science and Data Science | minor: statistics)
 - I'm interested in algorithms, machine learning, and mathematics
 - Email: kim3634@purdue.edu
 - LinkedIn: https://www.linkedin.com/in/kimsang0210
