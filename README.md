@@ -11,9 +11,12 @@
 - Email: kim3634@purdue.edu
 - LinkedIn: https://www.linkedin.com/in/kimsang0210
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilksh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilksh&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilksh&title_color=6565DE&bg_color=0B173F&text_color=45EDF0&icon_color=C056DF&theme=radical&show_icons=true)](https://github.com/ilksh/github-readme-stats)
 
 <!--
 **ilksh/ilksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
