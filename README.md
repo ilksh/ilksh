@@ -1,5 +1,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilksh)](https://solved.ac/ilksh)
 
+![](https://badges.peiyuan.ch/leetcode/ksh727301/name)
+![](https://badges.peiyuan.ch/leetcode/ksh727301/solved)
+![](https://badges.peiyuan.ch/leetcode/ksh727301/solved?difficulty=easy)
+![](https://badges.peiyuan.ch/leetcode/ksh727301/solved?difficulty=medium)
+![](https://badges.peiyuan.ch/leetcode/ksh727301/solved?difficulty=hard)
 ---
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"> 
 
