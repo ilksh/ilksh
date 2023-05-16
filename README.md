@@ -19,6 +19,7 @@
 - Personal Website: https://ksh727301.wixsite.com/sang-hyun--aaron-kim
 ---
 [![Anurag's GitHub stats](https://github-readme-stats-pi-six-91.vercel.app/api?username=ilksh&title_color=6565DE&bg_color=0B173F&text_color=45EDF0&icon_color=C056DF&theme=radical&show_icons=true)](https://github.com/ilksh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilksh&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ilksh/ilksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
