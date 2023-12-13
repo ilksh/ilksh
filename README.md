@@ -1,6 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilksh)](https://solved.ac/ilksh)
 
 ![](https://badges.peiyuan.ch/leetcode/ksh727301/name)
+![](https://badges.peiyuan.ch/leetcode/ksh727301/ranking?logo=leetcode)
 ![](https://badges.peiyuan.ch/leetcode/ksh727301/solved)
 ![](https://badges.peiyuan.ch/leetcode/ksh727301/solved?difficulty=easy)
 ![](https://badges.peiyuan.ch/leetcode/ksh727301/solved?difficulty=medium)
