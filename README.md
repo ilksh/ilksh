@@ -1,4 +1,7 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilksh)](https://solved.ac/ilksh)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilksh)](https://solved.ac/ilksh) <img src="https://leetcode-badge-showcase.vercel.app/api?username=ksh727301&filter=annual&animated=true&border=border&theme=dark" alt="LeetCode Badges" />
+
+[![LeetCode user ksh727301](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fksh727301&logo=leetcode&logoColor=yellow)](https://leetcode.com/ksh727301/) [![LeetCode user ksh727301](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fksh727301&logo=leetcode&logoColor=yellow)](https://leetcode.com/ksh727301/)
+
 
 
 ---
